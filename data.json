@@ -1,5 +1,5 @@
 {
-    "cs2":[{"内容":"3-e-1","締切":"20231012"}],
-    "RW2":{"class2":[{"内容":"Writing Assignment 1","締切":20231013}]},
-    "情報連携学概論":[{"内容":"","締切":"20231012"}]
+    "cs2":[{"description":"3-e-1","deadline":"20231012"}],
+    "RW2":{"class2":[{"deadline":"Writing Assignment 1","deadline":20231013}]},
+    "情報連携学概論":[{"deadline":"","deadline":"20231012"}]
     }
