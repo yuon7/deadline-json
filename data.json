@@ -2,10 +2,10 @@
   "year": {
     "2023": {
       "classes": {
-        "curses": {
-          "class2": {
-            "cs2": {
-              "name": "cs2",
+        "cs2": {
+          "curses": {
+            "class2": {
+              "name": "cs2 class2",
               "description": "Computer Science 2",
               "deadline": { "year": 23, "month": 10, "day": 14, "hour": 23 }
             }
@@ -22,7 +22,7 @@
         },
         "情報連携学概論": {
           "curses": {
-            " ": {
+            "none": {
               "name": "情報の連携学概論",
               "description": "4-1",
               "deadline": { "year": 23, "month": 10, "day": 14, "hour": 23 }
